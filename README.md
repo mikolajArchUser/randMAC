@@ -17,7 +17,7 @@ Then go to the downloaded repo with:
 cd randMAC
 ```
 
-And install the package with:
+And install the package:
 ```
 pip install .
 ```
