@@ -2,8 +2,6 @@
 
 repo: https://github.com/mikolajArchUser/randMAC.git
 
-Little python package to quickly change MAC address on linux systems
-
 ## Installing
 
 To clone the repo run:
