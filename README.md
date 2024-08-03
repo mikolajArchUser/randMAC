@@ -30,4 +30,4 @@ import randMAC as randmac
 print(randmac.generate_mac())
 ```
 
-This should output a random MAC address :)
+This should output a random MAC address.
